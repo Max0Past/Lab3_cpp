@@ -1,0 +1,3 @@
+﻿  AddressBook.cpp
+C:\Users\Max\Source\Repos\Lab3cpp\Lab3_C++\Lab3_C++\AddressBook.cpp(43,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab3_C++.vcxproj -> C:\Users\Max\Source\Repos\Lab3cpp\Lab3_C++\x64\Debug\Lab3_C++.exe
